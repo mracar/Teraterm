@@ -18,7 +18,7 @@ changedir inputstr
 ;Beskonaèna petlja: program se gasi ruèno u prozoru mocro-a
 ;*********************************************************************************
 logopen filename 0 0
-setsync 1
+setsync 0
 i = 0
 while i = 0
 	recvln
